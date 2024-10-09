@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Instagram
-- 📫 How to reach me,this is my instagram profile _deepanshu__verma__
+- 📫 How to reach me,this is my instagram profile  _deepanshu__verma__
 - 😄 Pronouns:Him
 - ⚡ Fun fact:All the world’s bacteria stacked on top of each other would stretch for 10 billion light-years.
 
